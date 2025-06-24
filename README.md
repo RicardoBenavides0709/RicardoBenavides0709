@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Vias de contacto
+
+![Website]()  
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/RicardoBenavides0709/RicardoBenavides0709)
+
 <!--
 **RicardoBenavides0709/RicardoBenavides0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
