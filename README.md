@@ -32,7 +32,7 @@ I´m a Computer science engineer pationate about **Data Analysis**, **FrontEnd D
 
 ### 📂 My Projects
 
-Check out my public repositories below ⬇️⬇️⬇️
+Check out my public repositories below ⬇️⬇️⬇️🗿👌🏻
 
 
 <!--
