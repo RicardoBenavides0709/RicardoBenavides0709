@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benavides-040382348/)
 
 
-I´m a Computer science engineer pationate about **Data Analysis**, **FrontEnd Development** and **Machine Learning**. I enjoy solving IT related puzzles and problems in order to continue learning and expanding my knowledge.
+I´m a Computer science engineer pationate about **Data Analysis**, **FrontEnd Development** and **Problem Solving**. I enjoy solving IT related puzzles and problems in order to continue learning and expanding my knowledge.
 
 ### 🖥️ **Languages**
 
